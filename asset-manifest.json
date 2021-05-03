@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://wally2222.github.io/csb-zi6og/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://wally2222.github.io/csb-zi6og/static/js/main.fd20275d.chunk.js",
+    "main.js.map": "https://wally2222.github.io/csb-zi6og/static/js/main.fd20275d.chunk.js.map",
+    "runtime-main.js": "https://wally2222.github.io/csb-zi6og/static/js/runtime-main.43f26288.js",
+    "runtime-main.js.map": "https://wally2222.github.io/csb-zi6og/static/js/runtime-main.43f26288.js.map",
+    "static/js/2.2350909c.chunk.js": "https://wally2222.github.io/csb-zi6og/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://wally2222.github.io/csb-zi6og/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://wally2222.github.io/csb-zi6og/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://wally2222.github.io/csb-zi6og/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://wally2222.github.io/csb-zi6og/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43f26288.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.fd20275d.chunk.js"
+  ]
+}
